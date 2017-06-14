@@ -4,6 +4,5 @@
 .nyc_output/
 @rerun.txt
 coverage/
-lib/
 node_modules
 usage.txt
